@@ -11,7 +11,7 @@ This project is created as for NVIDIA Computer Vision Deep Learning Certificate
 Around 300 picturesis being captured and collected  in my place as a dataset.
 
 ## :pencil2:Dataset Annotation
-Dataset are being annotate using [Roboflow](https://roboflow.com/) with 3 classes; rice,fried chicken and egg
+Dataset are being annotate using [Roboflow](https://roboflow.com/).
 
 ## :deciduous_tree:Create a new environment with Python Version 3.8
 `conda create -n myenv python=3.8`
@@ -55,7 +55,7 @@ Managing environment guides [here](https://docs.conda.io/projects/conda/en/lates
 
 
 ## :camera:Run the Inferences using webcam
-`python detect.py --weights food.pt --source 0`
+`python detect.py --weights customer-detection.pt --source 0`
 
 ## :handshake:Thank You
 Thank you for all the lecturers, facilitators, friends and family for helping me to develop the project. Any kind of improvement or suggestions are most welcomed.
