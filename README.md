@@ -1,5 +1,6 @@
 # Customer-Detection
 This project is created as for NVIDIA Computer Vision Deep Learning Certificate
+Check out my explanation video on https://youtu.be/FLJonZfq-Ek
 
 ## :gear:Hardware Required
 1. Jetson Nano
